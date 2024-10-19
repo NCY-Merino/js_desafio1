@@ -1,3 +1,3 @@
-# js_desafio1
+# Material de Apoyo - Base desafío calculando el total
 
-## Material de Apoyo - Base desafío calculando el total
+deploy = https://ncy-merino.github.io/js_desafio1/
